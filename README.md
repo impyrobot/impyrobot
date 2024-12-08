@@ -26,5 +26,5 @@ Currently working on:
 ## Contact Me
 
 - [Email](mailto:igalaxyray@gmail.com)
-- [Twitter]((https://twitter.com/impyrobot))
+- [Twitter](https://twitter.com/impyrobot)
 - [Website](https://impyrobot.github.io/portfolio/)
