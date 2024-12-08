@@ -10,10 +10,20 @@ I also run valhour.com (I need to pay for proxies though)
 
 ## My Skills
 
-- **Languages**: Python, JavaScript, TypeScript, Java, Ruby, PHP
-- **Frameworks**: React, Vue.js, Node.js, Django
-- **Tools**: Docker, Kubernetes, Git, TensorFlow
-- **Other**: Web scraping, Trading bots, Web3 applications, NLP, ML
+### Core
+- Algorithm Design
+- Data Structures
+- System Architecture
+- Object-Oriented Programming
+
+### Development
+- **Languages**: Python, Java (Spring Boot), JavaScript, TypeScript, Ruby, PHP
+- **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind
+- **Backend**: Node.js, Express, PHP/Laravel, Ruby on Rails, Django, Flask
+- **Database**: MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud/DevOps**: AWS, GCP, Docker, Kubernetes, CI/CD
+- **ML/AI**: TensorFlow, PyTorch, scikit-learn, NLP, LLM
+- **Testing**: Jest, JUnit, PHPUnit, PyTest, Playwright, Selenium
 
 ## Passion Projects
 
