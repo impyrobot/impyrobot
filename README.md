@@ -4,8 +4,6 @@
 
 I am a full-stack software engineer specializing in high-performance, low latency systems, webscraping, and automation. I have a proven track record of commercial success, generating over £35k in total revenue through web development, trading bots, web scraping, and Web3 applications.
 
-I am currently pursuing a Master of Computing in Computer Science with AI at the University of Sheffield, where I am working on a dissertation project focused on sentiment analysis using NLP/ML solutions.
-
 I also run valhour.com (I need to pay for proxies though)
 
 ## My Skills
