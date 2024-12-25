@@ -15,7 +15,7 @@ I also run valhour.com (I need to pay for proxies though)
 - Object-Oriented Programming
 
 ### Development
-- **Languages**: Python, Java (Spring Boot), JavaScript, TypeScript, Ruby, PHP
+- **Languages**: Python, JavaScript, TypeScript, Java, Ruby, PHP
 - **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind
 - **Backend**: Node.js, Express, PHP/Laravel, Ruby on Rails, Django, Flask
 - **Database**: MySQL, PostgreSQL, MongoDB, Redis
