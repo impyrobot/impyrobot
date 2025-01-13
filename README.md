@@ -4,7 +4,7 @@
 
 I am a full-stack software engineer specializing in high-performance, low latency systems, webscraping, and automation. I have a proven track record of commercial success, generating over £35k in total revenue through web development, trading bots, web scraping, and Web3 applications.
 
-I also run valhour.com (I need to pay for proxies though)
+I also run valhour.com (I need to pay for proxies though) and deadlocker.net
 
 ## My Skills
 
