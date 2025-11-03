@@ -5,8 +5,8 @@ Also the owner of deadlocker.net
 
 ## Passion Projects
 Currently working on: 
-- Solana/web3 tools and utillites - currently pump.fun live stream monitoring tools
-- Keeta utillites and tooling for new L1 blockchain Keeta
+- Solana/web3 tools and utillites
+- Keetascan explorer for the Keeta blockchain
 - [Deadlocker](https://deadlocker.net/) (deadlock skins site)
 
 ## Contact Me
